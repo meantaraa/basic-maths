@@ -35,3 +35,6 @@ public class ArmstrongNumber {
     }
 
 }
+
+// Time Complexity: O(log10N + 1) 
+// Space Complexity: O(1)
